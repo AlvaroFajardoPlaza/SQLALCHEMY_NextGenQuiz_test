@@ -1,0 +1,4 @@
+OBJETIVO PRINCIPAL:
+
+- En este proyecto vamos a realizar webscrapping sobre una página web y empleando el ORM de SQLALchemy, vamos a guardar nuestros registros en una bbdd sql.
+
